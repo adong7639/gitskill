@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-this in des
-come there
-=======
-this in des
-come there
->>>>>>> dev
+thi is dev
